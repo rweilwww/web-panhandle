@@ -3,7 +3,7 @@ cd /inetpub/wwwroot/w/panhandle
 
 
 git add .
-git commit -m "from indesign 2025-05-13 16:48" --no-edit
+git commit -m "from indesign 2025-05-13 16:50" --no-edit
 git push main
 
 rem wait for one minute to allow git hub to get its act together
